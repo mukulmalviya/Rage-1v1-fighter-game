@@ -1,6 +1,9 @@
 # Rage-1v1-fighter-game
 Unity 3d project
 
+**This only host scripts used in my project for full project to run on machine, use google drive link to download exe file
+** Will be posting full project soon !!
+
 Game Rage:1v1 fighter game inspired by streetfighters.
 
 *How to use :
