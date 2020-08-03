@@ -61,6 +61,7 @@ Technology Used :
          Scripting - C# on Visual Studio 2017
          Animation, Rigging and Posing – Blender(v2.79), 3ds max(v20.4), makeHuman (v1.1.1)         
          Platform – Microsoft Windows (windows 7 and above)
+
 Description :
 Rage is a 3D one-on-one fighting game.
 The game features a welcome screen, Main Menu UI, a pause menu UI, main game scene
